@@ -1,0 +1,52 @@
+SPECIFICATIONS
+OUTPUT POWER
+
+50 watts rms into 8 ohms at 1kHz with no more than 0.025% THD
+
+FREQUENCY RESPONSE
+
++/- 0.25 dB from 7Hz to 35kHz
+
+SIGNAL TO NOISE RATIO
+
+-103 dB at full-power output
+
+INPUT SENSITIVITY
+
+0.85V RMS
+
+GAIN
+
+30 dB
+
+INPUT IMPEDANCE
+
+30k Ohms
+
+DAMPING FACTOR
+
+200, reference 8 ohms nominal
+
+POWER CONSUMPTION
+
+55 watts idle, 120 watts maximum
+
+INPUTS
+
+1 pair unbalanced RCA connectors, 1 pair XLR inputs
+
+OUTPUTS
+
+1 pair of combination XLR & 1/4 " stereo plug connectors
+
+OPERATING VOLTAGE
+
+120V, 220V, 230V, 240VAC power at 50 or 60 Hz
+
+SHIPPING DIMENSIONS
+
+19 inches W x 19 inches D x 12 inches H
+
+SHIPPING WEIGHT
+
+26 lbs. 
