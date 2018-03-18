@@ -1,0 +1,40 @@
+Added Component: Designator=P1(HDR1X4)
+Added Component: Designator=P2(HDR1X4)
+Added Component: Designator=P3(HDR1X4)
+Added Component: Designator=P4(HDR1X4)
+Added Component: Designator=P5(HDR1X4)
+Added Component: Designator=V1(Nutube 6P1)
+Added Pin To Net: NetName=NetP1_1 Pin=P1-1
+Added Pin To Net: NetName=NetP1_1 Pin=P1-2
+Added Pin To Net: NetName=NetP1_1 Pin=P1-3
+Added Pin To Net: NetName=NetP1_1 Pin=P1-4
+Added Pin To Net: NetName=NetP1_1 Pin=V1-4
+Added Net: Name=NetP1_1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=P2-2
+Added Pin To Net: NetName=NetP2_1 Pin=P2-3
+Added Pin To Net: NetName=NetP2_1 Pin=P2-4
+Added Pin To Net: NetName=NetP2_1 Pin=V1-7
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP3_1 Pin=P3-1
+Added Pin To Net: NetName=NetP3_1 Pin=V1-1
+Added Pin To Net: NetName=NetP3_1 Pin=V1-2
+Added Net: Name=NetP3_1
+Added Pin To Net: NetName=NetP3_4 Pin=P3-4
+Added Pin To Net: NetName=NetP3_4 Pin=V1-3
+Added Net: Name=NetP3_4
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=V1-5
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_4 Pin=P4-4
+Added Pin To Net: NetName=NetP4_4 Pin=V1-6
+Added Net: Name=NetP4_4
+Added Pin To Net: NetName=NetP5_1 Pin=P5-1
+Added Pin To Net: NetName=NetP5_1 Pin=V1-8
+Added Net: Name=NetP5_1
+Added Pin To Net: NetName=NetP5_4 Pin=P5-4
+Added Pin To Net: NetName=NetP5_4 Pin=V1-9
+Added Pin To Net: NetName=NetP5_4 Pin=V1-10
+Added Net: Name=NetP5_4
+Added Class: Name=6P1
+Added Room: Name=6P1
